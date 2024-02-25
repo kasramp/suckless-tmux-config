@@ -20,4 +20,5 @@ Since everything is in a single file, installation process is super simple with
 a single CURL command,
 
 ```bash
+curl -sL https://raw.githubusercontent.com/kasramp/suckless-tmux-config/master/.tmux.conf --output ~/.tmux.conf
 ```
