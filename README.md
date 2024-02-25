@@ -1,4 +1,4 @@
-# suckless-tmux-config
+# Suckless Tmux config
 
 A suckless, minimalstic Tmux config with Vim key bindings.
 
@@ -13,6 +13,8 @@ and designed to be understanable, small, and easily deployable to any server wit
 any plugins or voodoo work, while being aesthetically pleasing. 
 
 ## Screenshot
+
+![Preview](https://github.com/kasramp/suckless-tmux-config/blob/master/screenshot/screenshot.png)
 
 ## How to install
 
